@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Rutuja Jadhav
+Created by Rutuja Jadhav.
